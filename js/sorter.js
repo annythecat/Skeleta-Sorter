@@ -8,70 +8,70 @@ var s1 = {
   name: "Peacefield",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s2 = {
   name: "Lachryma",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s3 = {
   name: "Satanized",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s4 = {
   name: "Guiding Lights",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s5 = {
   name: "De Profundis Borealis",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s6 = {
   name: "Cenotaph",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s7 = {
   name: "Missilia Amori",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s8 = {
   name: "Marks of the Evil One",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s9 = {
   name: "Umbra",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 
 var s10 = {
   name: "Excelsis",
   score: 0,
   fought: [],
-  img: "js/Skeleta.png",
+  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
 };
 //list with all objects you want to sort
 var items = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10];
