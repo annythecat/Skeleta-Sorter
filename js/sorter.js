@@ -4,46 +4,71 @@
 
 /* Items to be sorted. These are stored as objects with their name and img source. The actual object name doesnt matter. Add as many as you want, just make sure to add them to the "items" array as well*/
 
-var A = {
-  name: "Marianne",
+var s1 = {
+  name: "Peacefield",
   score: 0,
   fought: [],
-  img: "https://media.discordapp.net/attachments/270670857444130816/813138676687175740/EePlrFhU0AArcqL.png?width=403&height=701",
+  
 };
 
-var B = {
-  name: "Iron Maidger",
+var s2 = {
+  name: "Lachryma",
   score: 0,
   fought: [],
-  img: "https://media.discordapp.net/attachments/270670857444130816/813143296292946000/xvze4eo6udf61.png",
 };
 
-var C = {
-  name: "Ninja Trollolololol",
+var s3 = {
+  name: "Satanized",
   score: 0,
   fought: [],
-  img: "https://media.discordapp.net/attachments/270670857444130816/812777665433174106/A3XpoU1CIAA1_UY.png?width=524&height=701",
 };
 
-var D = {
-  name: "19 Dollar Fortnite Card",
+var s4 = {
+  name: "Guiding Lights",
   score: 0,
   fought: [],
-  img: "https://media.discordapp.net/attachments/270670857444130816/812132247955308584/6426792_sd.png?width=485&height=701",
 };
 
-var E = {
-  name: "Thanos be grindin",
+var s5 = {
+  name: "De Profundis Borealis",
   score: 0,
   fought: [],
-  img: "https://media.discordapp.net/attachments/270670857444130816/811794422974119956/HcMZ4wYmeX7Pjdo04H64lw7chI36bYTFUZd7cWj_ue6jgqbNHByIUVA5oxkRHa6MWtm_D9ea1ulyLws479-nd.png",
 };
 
+var s6 = {
+  name: "Cenotaph",
+  score: 0,
+  fought: [],
+};
+
+var s7 = {
+  name: "Missilia Amori",
+  score: 0,
+  fought: [],
+};
+
+var s8 = {
+  name: "Marks of the Evil One",
+  score: 0,
+  fought: [],
+};
+
+var s9 = {
+  name: "Umbra",
+  score: 0,
+  fought: [],
+};
+
+var s10 = {
+  name: "Excelsis",
+  score: 0,
+  fought: [],
+};
 //list with all objects you want to sort
-var items = [A, B, C, D, E];
+var items = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10];
 
 //How many images to display on results. 0 displays none.
-var resultsImgAmount = 3;
+var resultsImgAmount = 0;
 
 
 
