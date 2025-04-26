@@ -8,70 +8,70 @@ var s1 = {
   name: "Peacefield",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s2 = {
   name: "Lachryma",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s3 = {
   name: "Satanized",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s4 = {
   name: "Guiding Lights",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s5 = {
   name: "De Profundis Borealis",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s6 = {
   name: "Cenotaph",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s7 = {
   name: "Missilia Amori",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s8 = {
   name: "Marks of the Evil One",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s9 = {
   name: "Umbra",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 
 var s10 = {
   name: "Excelsis",
   score: 0,
   fought: [],
-  img: "https://raw.githubusercontent.com/annythecat/Skeleta-Sorter/refs/heads/main/js/Skeleta.png",
+  img: "js/Skeleta_Album_Cover-500.webp",
 };
 //list with all objects you want to sort
 var items = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10];
